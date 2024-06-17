@@ -1,4 +1,4 @@
-# Step-by-Step Guide to Curate Data and Fine-Tune a Model Without Using NeMo
+# Step-by-Step Guide to Curate Data and Fine-Tune a Model 
 
 ## Step 1: Collect and Curate Data 
 You can manually collect data from various sources such as scientific journals, research papers, and news articles, and organize it into a CSV file. 
@@ -270,13 +270,6 @@ trainer.train()
 ```
 
 
-
-    <div>
-
-      <progress value='8' max='8' style='width:300px; height:20px; vertical-align: middle;'></progress>
-      [8/8 35:23, Epoch 2/2]
-    </div>
-    <table border="1" class="dataframe">
   <thead>
  <tr style="text-align: left;">
       <th>Epoch</th>
