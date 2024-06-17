@@ -1,3 +1,5 @@
+**Objectives**: This project aims to summarize research articles of remote sensing, which is trained by abstracts and titles of papers in the field of remote sensing. The training data was downloaded for recent years from 2020 to 2024 and the transformers were used for model training and text generation. However, this is the first attempt of utilizing LLM to generate contents for remote sensing papers. Further model fine-tuning is required to increase the accuracy of the outputs and the practicality of the project.  
+
 # Step-by-Step Guide to Curate Data and Fine-Tune a Model 
 
 ## Step 1: Collect and Curate Data 
